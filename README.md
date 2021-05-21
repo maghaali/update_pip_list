@@ -7,4 +7,4 @@ just run the following command
 python update_pip_list.py
 ```
 
-> Note: maybe you need to check you package lists and and some other symbols to re pattern
+> Note: maybe you need to check your package lists and and some other symbols to re pattern
